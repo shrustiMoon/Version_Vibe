@@ -56,7 +56,5 @@ Future Upgrades
 
 ->AI-based change suggestions
 
-Team
 
-->Vrunani Muley, Jagruti Disle & Dhammavi Pilewan
 "Crafting software that adapts to user needs through custom data structures."
