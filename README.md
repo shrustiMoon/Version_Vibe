@@ -1,6 +1,3 @@
-Here's a clean, structured README for VersionVibe:
-
----
 
 # VersionVibe 🗂️
 ### A Text Editor That Versions Differently
@@ -92,5 +89,3 @@ java VersionVibe
 *Built with a focus on simplicity, speed, and smart data structures.*
 
 ---
-
-Feel free to swap in your actual GitHub username in the clone link. Want me to also turn this into resume bullet points like we did for QuickBite?
